@@ -72,7 +72,7 @@ class ViewController: UIViewController {
     
     func setRedNameLabel() {
         
-        redNameLabel.text = "Name"
+        redNameLabel.text = "Максим"
         redNameLabel.textColor = .red
         redNameLabel.numberOfLines = 0
         redNameLabel.font = UIFont.systemFont(ofSize: 20, weight: .black)
@@ -93,7 +93,7 @@ class ViewController: UIViewController {
     }
     
     func setRedSurnameLabel() {
-        redSurnameLabel.text = "Surname"
+        redSurnameLabel.text = "Кудрявцев"
         redSurnameLabel.textColor = .red
         redSurnameLabel.numberOfLines = 0
         redSurnameLabel.font = UIFont.systemFont(ofSize: 20, weight: .black)
